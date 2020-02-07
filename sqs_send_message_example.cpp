@@ -1,3 +1,7 @@
+/***
+    This code was tested on Windows 10/Visual Studio 2017 and CentOS 7/GCC 7.x on Feb, 2020.
+***/
+
 #include <aws/core/Aws.h> 
 #include <aws/core/auth/AWSCredentialsProvider.h> 
 #include <aws/sqs/SQSClient.h> 
